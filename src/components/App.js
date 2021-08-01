@@ -1,7 +1,7 @@
 import axios from 'axios'
 import {useState} from 'react'
 import React from 'react'
-import Movie_details from './Movie_details';
+
 import {BrowserRouter as Router,Link} from "react-router-dom";
 import { Switch,Route} from 'react-router';
 import { string } from 'prop-types';
